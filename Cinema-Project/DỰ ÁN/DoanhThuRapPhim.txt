@@ -1,0 +1,5 @@
+================ BÁO CÁO DOANH THU R?P CHI?U PHIM ================
+ID: 101 | Phim: Avengers: Endgame | Doanh thu: 0 VND
+ID: 102 | Phim: Interstellar | Doanh thu: 0 VND
+ID: 105 | Phim: Inception | Doanh thu: 0 VND
+=================================================================
